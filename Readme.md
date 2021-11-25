@@ -1,7 +1,11 @@
 <h1 align="center">PHP PSR Transliterator</h1>
 <p align="center">
-![](https://img.shields.io/github/stars/Nikidze/php-psr-transliterate.svg) ![](https://img.shields.io/github/forks/Nikidze/php-psr-transliterate.svg) ![](https://img.shields.io/github/tag/Nikidze/php-psr-transliterate.svg) ![](https://img.shields.io/github/release/Nikidze/php-psr-transliterate.svg) ![](https://img.shields.io/github/issues/Nikidze/php-psr-transliterate.svg) 
+<img src="https://img.shields.io/github/stars/Nikidze/php-psr-transliterate.svg" alt="Total Downloads">
+<img src="https://img.shields.io/github/forks/Nikidze/php-psr-transliterate.svg" alt="Total Downloads">
+<img src="https://img.shields.io/github/tag/Nikidze/php-psr-transliterate.svg" alt="Total Downloads">
+<img src="https://img.shields.io/github/issues/Nikidze/php-psr-transliterate.svg" alt="Total Downloads">
 </p>
+
 ## По-русски
 ### Особенности
 - Транслит с русского на латиницу;
